@@ -1,0 +1,7 @@
+### IntelliJ IDEA ###
+out/
+.idea/
+*.iml
+lib/
+gen
+tankGameRecord.txt
